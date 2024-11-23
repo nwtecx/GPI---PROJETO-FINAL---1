@@ -1,6 +1,5 @@
 Monitoramento e Otimização de Smartphones: Soluções para Superaquecimento e Bateria
 
-Descrição do Projeto: 
 Este repositório contém o desenvolvimento de um projeto voltado para soluções que abordam o superaquecimento de smartphones e a degradação da bateria. O objetivo é oferecer ferramentas e estratégias para monitorar, otimizar e prolongar a vida útil dos dispositivos móveis, garantindo uma experiência de uso aprimorada para diferentes perfis de usuários.
 
 Funcionalidades Principais:
